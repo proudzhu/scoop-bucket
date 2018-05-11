@@ -4,6 +4,12 @@
     "license": "MIT",
     "extract_dir": "VNote",
     "bin": "VNote.exe",
+    "shortcuts": [
+        [
+            "VNote.exe",
+            "VNote"
+        ]
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/tamlok/vnote/releases/download/v1.16/VNote_win_X64_portable_1.16.zip",
